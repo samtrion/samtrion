@@ -15,7 +15,6 @@
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webassembly.svg" />
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-  <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg">
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg">
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg">
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg">
