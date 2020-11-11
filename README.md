@@ -13,6 +13,7 @@
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+  <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webassembly.svg" />
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
   <img width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg">
