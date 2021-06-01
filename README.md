@@ -1,7 +1,7 @@
 ### Hi, I'm Martin 👋
 ---
 
-#### I'm a Full-Stack Developer / Cloud Architect based in Bonn Area, Germany.
+#### I'm a Full-Stack Developer / Cloud Architect based in Cologne Bonn Region, Germany.
 
 - I'm currently working full-time with awesome peeps at **[novaCapta](https://www.novacapta.de/)**
 - Reach me asap: <a href="https://twitter.com/samtrion/">Twitter</a> or me@samtrion.net
