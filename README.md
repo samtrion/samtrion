@@ -8,7 +8,8 @@
 - Passionate about code performance and quality, committed to a fully automated world that works for everyone
 
 #### Find me around the web:
-- Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/martin-stuehmer/">LinkedIn</a> or <a href="https://www.xing.com/profile/Martin_Stuehmer">Xing</a>
+- Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/martin-stuehmer/">LinkedIn</a>
+- 
 <!--
 - Updating my personal website with examples of my work on <a href="https://samtrion.net">samtrion.net</a>
 
