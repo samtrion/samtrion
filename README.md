@@ -12,6 +12,10 @@
 #### Find me around the web:
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/martin-stuehmer/">LinkedIn</a>
 
+#### Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <!--
 - Updating my personal website with examples of my work on <a href="https://samtrion.net">samtrion.net</a>
 
