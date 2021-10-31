@@ -1,5 +1,6 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: Update Metrics
+
 on:
   # Schedule updates (each hour)
   schedule:
@@ -24,16 +25,28 @@ jobs:
           user: samtrion
           template: classic
           base: activity, community, repositories
+          commits_authoring: samtrion@users.noreply.github.com
           config_timezone: Europe/Berlin
+          
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
+          plugin_languages_categories: markup, programming, data
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming, data
           plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
+          plugin_languages_recent_load: 500
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: mastered # Display icons instead of labels
+          plugin_topics_limit: 0       # Disable limitations
