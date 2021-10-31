@@ -30,23 +30,22 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming, data
+          plugin_languages_categories: markup, programming, data, prose
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming, data
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 500
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_recent_categories: markup, programming, data, prose
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 1000
+          plugin_languages_sections: recently-used
           
           plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_from: 1000      # Use 200 events to compute habits
           plugin_habits_days: 14        # Keep only events from last 14 days
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
 
           plugin_topics: yes
-          plugin_topics_sort: stars    # Sort by most starred topics
-          plugin_topics_mode: mastered # Display icons instead of labels
+          plugin_topics_sort: activity # Sort by most starred topics
+          plugin_topics_mode: starred  # Display icons instead of labels
           plugin_topics_limit: 0       # Disable limitations
