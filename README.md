@@ -15,9 +15,6 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Find me around the web:
 - Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/martin-stuehmer/">LinkedIn</a>
 
-#### Metrics
-<p align="center"><img src="https://github.com/samtrion/samtrion/blob/main/github-metrics.svg" alt="samtrion's Metrics"/></p>
-
 #### Certifications
 <!--START_SECTION:badges-->
 
