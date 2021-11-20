@@ -18,6 +18,7 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Certifications
 <!--START_SECTION:badges-->
 
+[![Microsoft Certified: Security Operations Analyst Associate](https://images.credly.com/size/110x110/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png)](http://www.credly.com/badges/553a0bef-1d25-4c99-8908-0b3dfe43a2ff "Microsoft Certified: Security Operations Analyst Associate")
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](http://www.credly.com/badges/9fa04d90-0337-4c92-a6e1-5962930131f7 "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
 [![Microsoft Certified: Dynamics 365 Fundamentals (ERP)](https://images.credly.com/size/110x110/images/f611a90e-b8e2-4fdf-9bd6-9e8d5f4c30e8/dynamics365-fundamentals-erp-600x600.png)](http://www.credly.com/badges/0329cd78-86fd-40c8-b6db-4f056a273f9b "Microsoft Certified: Dynamics 365 Fundamentals (ERP)")
 [![Microsoft Certified: Dynamics 365 Fundamentals (CRM)](https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png)](http://www.credly.com/badges/561c3e14-f7a3-4ec1-aa80-12fc426e0ffa "Microsoft Certified: Dynamics 365 Fundamentals (CRM)")
