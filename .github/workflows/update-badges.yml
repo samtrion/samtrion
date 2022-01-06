@@ -20,3 +20,4 @@ jobs:
           REPOSITORY: samtrion/samtrion
           CREDLY_USER: martin-stuehmer
           CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+          BADGE_SIZE: 160
