@@ -18,6 +18,8 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Certifications
 <!--START_SECTION:badges-->
 
+[![Microsoft Certified: Data Analyst Associate](https://images.credly.com/size/110x110/images/5cc4fa32-c08f-43c5-ae31-3184e172ad34/CERT-Associate-Data-Analyst-600x600.png)](http://www.credly.com/badges/6a931bd7-00bb-4b37-b8ec-ba45e8782e46 "Microsoft Certified: Data Analyst Associate")
+[![Microsoft Certified: Information Protection Administrator Associate](https://images.credly.com/size/110x110/images/c36c96ec-5e83-4a77-868d-aca5e757cb92/information-protection-administrator-associate-600x600.png)](http://www.credly.com/badges/46835941-b65f-4b19-97ee-5f9a0f10f9f5 "Microsoft Certified: Information Protection Administrator Associate")
 [![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/110x110/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)](http://www.credly.com/badges/304d44ec-c4ec-4ce9-978e-6e6c006c3bbd "Microsoft Certified: Azure Security Engineer Associate")
 [![Microsoft Certified: Security Operations Analyst Associate](https://images.credly.com/size/110x110/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png)](http://www.credly.com/badges/553a0bef-1d25-4c99-8908-0b3dfe43a2ff "Microsoft Certified: Security Operations Analyst Associate")
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](http://www.credly.com/badges/9fa04d90-0337-4c92-a6e1-5962930131f7 "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
