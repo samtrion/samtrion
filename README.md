@@ -18,6 +18,7 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Certifications
 <!--START_SECTION:badges-->
 
+[![Microsoft Certified: Azure Data Engineer Associate](https://images.credly.com/size/160x160/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)](http://www.credly.com/badges/1d4a842c-79d8-4a06-a2d4-89b0a0a97d5e "Microsoft Certified: Azure Data Engineer Associate")
 [![Microsoft Certified: Azure AI Engineer Associate](https://images.credly.com/size/160x160/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png)](http://www.credly.com/badges/be8993d9-03ea-4a3d-93bf-61376a942df2 "Microsoft Certified: Azure AI Engineer Associate")
 [![Microsoft Certified: Power BI Data Analyst Associate](https://images.credly.com/size/160x160/images/9230b95b-2cb5-44be-bc07-301f9b753e27/image.png)](http://www.credly.com/badges/6a931bd7-00bb-4b37-b8ec-ba45e8782e46 "Microsoft Certified: Power BI Data Analyst Associate")
 [![Microsoft Certified: Information Protection Administrator Associate](https://images.credly.com/size/160x160/images/c36c96ec-5e83-4a77-868d-aca5e757cb92/information-protection-administrator-associate-600x600.png)](http://www.credly.com/badges/46835941-b65f-4b19-97ee-5f9a0f10f9f5 "Microsoft Certified: Information Protection Administrator Associate")
