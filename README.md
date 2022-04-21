@@ -18,6 +18,7 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Certifications
 <!--START_SECTION:badges-->
 
+[![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/160x160/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/1c86b6ce-cd73-4286-82c0-976317e0dc91 "Microsoft Certified: Azure Network Engineer Associate")
 [![Microsoft Certified: Azure Data Engineer Associate](https://images.credly.com/size/160x160/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)](http://www.credly.com/badges/03b467d9-d729-4232-9a7b-a38c70dfea48 "Microsoft Certified: Azure Data Engineer Associate")
 [![Microsoft Certified: Azure AI Engineer Associate](https://images.credly.com/size/160x160/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png)](http://www.credly.com/badges/f70eafd3-c125-4c9e-bafa-9d631bad8db9 "Microsoft Certified: Azure AI Engineer Associate")
 [![Microsoft Certified: Power BI Data Analyst Associate](https://images.credly.com/size/160x160/images/9230b95b-2cb5-44be-bc07-301f9b753e27/image.png)](http://www.credly.com/badges/330279bc-a65b-47a1-8bb1-7317ab200371 "Microsoft Certified: Power BI Data Analyst Associate")
