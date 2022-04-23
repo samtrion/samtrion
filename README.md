@@ -18,6 +18,7 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Certifications
 <!--START_SECTION:badges-->
 
+[![Microsoft Certified Trainer 2022-2023](https://images.credly.com/size/160x160/images/4cda21c8-5a97-4eb1-831f-f4c52cab2125/MCT-Microsoft_Certified_Trainer-600x600.png)](http://www.credly.com/badges/dcdce4c4-f124-420f-829f-dd071f3007cf "Microsoft Certified Trainer 2022-2023")
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/160x160/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/1c86b6ce-cd73-4286-82c0-976317e0dc91 "Microsoft Certified: Azure Network Engineer Associate")
 [![Microsoft Certified: Azure Data Engineer Associate](https://images.credly.com/size/160x160/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)](http://www.credly.com/badges/03b467d9-d729-4232-9a7b-a38c70dfea48 "Microsoft Certified: Azure Data Engineer Associate")
 [![Microsoft Certified: Azure AI Engineer Associate](https://images.credly.com/size/160x160/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png)](http://www.credly.com/badges/f70eafd3-c125-4c9e-bafa-9d631bad8db9 "Microsoft Certified: Azure AI Engineer Associate")
