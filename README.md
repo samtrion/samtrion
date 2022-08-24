@@ -18,6 +18,7 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Certifications
 <!--START_SECTION:badges-->
 
+[![Microsoft 365 Certified: Teams Application Developer Associate](https://images.credly.com/size/160x160/images/ef2853b2-4faf-4d27-8dec-5ddd71aa82bc/CERT-Associate-Microsoft365-Developer.png)](http://www.credly.com/badges/0c235e44-de71-4a60-bcd2-c40ba9dd4f7b "Microsoft 365 Certified: Teams Application Developer Associate")
 [![Microsoft Certified Trainer 2022-2023](https://images.credly.com/size/160x160/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png)](http://www.credly.com/badges/0439cf8d-50d2-4f89-89f3-3de842cd5796 "Microsoft Certified Trainer 2022-2023")
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/160x160/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/b2f0e656-501e-4b93-86b7-c200420de3c2 "Microsoft Certified: Azure Network Engineer Associate")
 [![Microsoft Certified: Azure Data Engineer Associate](https://images.credly.com/size/160x160/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png)](http://www.credly.com/badges/a5633089-5798-481f-bfa0-3ad8d9cd7329 "Microsoft Certified: Azure Data Engineer Associate")
