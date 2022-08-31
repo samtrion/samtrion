@@ -18,6 +18,7 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Certifications
 <!--START_SECTION:badges-->
 
+[![Microsoft Certified: Azure Cosmos DB Developer Specialty](https://images.credly.com/size/160x160/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png)](http://www.credly.com/badges/dc419ca8-4d9d-425c-a59e-f9b57811fd7e "Microsoft Certified: Azure Cosmos DB Developer Specialty")
 [![Microsoft 365 Certified: Teams Application Developer Associate](https://images.credly.com/size/160x160/images/ef2853b2-4faf-4d27-8dec-5ddd71aa82bc/CERT-Associate-Microsoft365-Developer.png)](http://www.credly.com/badges/051afcca-8acf-4f77-b360-89790b0cd0a4 "Microsoft 365 Certified: Teams Application Developer Associate")
 [![Microsoft Certified Trainer 2022-2023](https://images.credly.com/size/160x160/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png)](http://www.credly.com/badges/2d540e00-c721-4eea-898f-2c0a1477e77e "Microsoft Certified Trainer 2022-2023")
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/160x160/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/910baf63-0151-4698-b372-6033d3b0359e "Microsoft Certified: Azure Network Engineer Associate")
