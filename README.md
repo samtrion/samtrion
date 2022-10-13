@@ -18,6 +18,8 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Certifications
 <!--START_SECTION:badges-->
 
+[![Microsoft Certified: Cybersecurity Architect Expert](https://images.credly.com/size/160x160/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)](http://www.credly.com/badges/b3a6f9e3-d6ad-48eb-aae8-9d1baa2b3ead "Microsoft Certified: Cybersecurity Architect Expert")
+[![SC-100: Microsoft Cybersecurity Architect](https://images.credly.com/size/160x160/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png)](http://www.credly.com/badges/0415beb2-7dcc-4ddd-80b8-89435c101b92 "SC-100: Microsoft Cybersecurity Architect")
 [![Microsoft Certified: Azure Cosmos DB Developer Specialty](https://images.credly.com/size/160x160/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png)](http://www.credly.com/badges/edaed685-5f66-415c-a7bd-10bd97ac06db "Microsoft Certified: Azure Cosmos DB Developer Specialty")
 [![Microsoft 365 Certified: Teams Application Developer Associate](https://images.credly.com/size/160x160/images/ef2853b2-4faf-4d27-8dec-5ddd71aa82bc/CERT-Associate-Microsoft365-Developer.png)](http://www.credly.com/badges/2f8020b7-ddbc-44d7-92c9-bb5cf4dd6579 "Microsoft 365 Certified: Teams Application Developer Associate")
 [![Microsoft Certified Trainer 2022-2023](https://images.credly.com/size/160x160/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png)](http://www.credly.com/badges/54f00da4-4f97-429a-98a3-d027dd0f5d6a "Microsoft Certified Trainer 2022-2023")
