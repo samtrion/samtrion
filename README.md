@@ -18,6 +18,7 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Certifications
 <!--START_SECTION:badges-->
 
+[![Kusto Detective Agency - Case #1 Badge](https://images.credly.com/size/160x160/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png)](http://www.credly.com/badges/9bdfff84-085f-40a9-9135-bc28c1218c91 "Kusto Detective Agency - Case #1 Badge")
 [![Microsoft Certified: Cybersecurity Architect Expert](https://images.credly.com/size/160x160/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)](http://www.credly.com/badges/b3a6f9e3-d6ad-48eb-aae8-9d1baa2b3ead "Microsoft Certified: Cybersecurity Architect Expert")
 [![SC-100: Microsoft Cybersecurity Architect](https://images.credly.com/size/160x160/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png)](http://www.credly.com/badges/0415beb2-7dcc-4ddd-80b8-89435c101b92 "SC-100: Microsoft Cybersecurity Architect")
 [![Microsoft Certified: Azure Cosmos DB Developer Specialty](https://images.credly.com/size/160x160/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png)](http://www.credly.com/badges/edaed685-5f66-415c-a7bd-10bd97ac06db "Microsoft Certified: Azure Cosmos DB Developer Specialty")
