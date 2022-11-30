@@ -18,6 +18,10 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 #### Certifications
 <!--START_SECTION:badges-->
 
+[![Kusto Detective Agency - Case #5 Badge](https://images.credly.com/size/160x160/images/43b452c6-89f2-4649-bb84-19f3166a833e/image.png)](http://www.credly.com/badges/5e6245eb-585d-4bd5-9df5-32957adf0a7f "Kusto Detective Agency - Case #5 Badge")
+[![Kusto Detective Agency - Case #4 Badge](https://images.credly.com/size/160x160/images/e7522dc8-886b-4a5b-9436-535e1adaa5c5/image.png)](http://www.credly.com/badges/82eca7d0-8671-491e-8ff8-9410930bbcbf "Kusto Detective Agency - Case #4 Badge")
+[![Kusto Detective Agency - Case #3 Badge](https://images.credly.com/size/160x160/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png)](http://www.credly.com/badges/7811f986-5408-46cb-ac52-0de852a74b6a "Kusto Detective Agency - Case #3 Badge")
+[![Kusto Detective Agency - Case #2 Badge](https://images.credly.com/size/160x160/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png)](http://www.credly.com/badges/b97ae353-c232-4ed0-b6f0-ad5fb89c7062 "Kusto Detective Agency - Case #2 Badge")
 [![Kusto Detective Agency - Case #1 Badge](https://images.credly.com/size/160x160/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png)](http://www.credly.com/badges/9bdfff84-085f-40a9-9135-bc28c1218c91 "Kusto Detective Agency - Case #1 Badge")
 [![Microsoft Certified: Cybersecurity Architect Expert](https://images.credly.com/size/160x160/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)](http://www.credly.com/badges/b3a6f9e3-d6ad-48eb-aae8-9d1baa2b3ead "Microsoft Certified: Cybersecurity Architect Expert")
 [![SC-100: Microsoft Cybersecurity Architect](https://images.credly.com/size/160x160/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png)](http://www.credly.com/badges/0415beb2-7dcc-4ddd-80b8-89435c101b92 "SC-100: Microsoft Cybersecurity Architect")
