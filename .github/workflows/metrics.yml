@@ -18,7 +18,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.dailydevops.de.rss.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           committer_message: Update ${filename} [skip ci]
           plugin_rss: yes
@@ -29,7 +29,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.dailydevops.en.rss.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           committer_message: Update ${filename} [skip ci]
           plugin_rss: yes
