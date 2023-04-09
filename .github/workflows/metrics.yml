@@ -1,0 +1,33 @@
+name: Metrics Feeds
+
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: German News
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.dailydevops.de.rss.svg
+          token: NOT_NEEDED
+          base: ""
+          committer_message: Update ${filename} [skip ci]
+          plugin_rss: yes
+          plugin_rss_source: https://daily-devops.net/de/authors/martin/feed.rss
+          plugin_rss_limit: 10
+          
+      - name: English News
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.dailydevops.en.rss.svg
+          token: NOT_NEEDED
+          base: ""
+          committer_message: Update ${filename} [skip ci]
+          plugin_rss: yes
+          plugin_rss_source: https://daily-devops.net/en/authors/martin/feed.rss
+          plugin_rss_limit: 10
