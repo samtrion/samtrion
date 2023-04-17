@@ -43,6 +43,7 @@ GitHub Emoji Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet
 ## Certifications
 <!--START_SECTION:badges-->
 
+[![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/160x160/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](http://www.credly.com/badges/ad713ad5-cc47-47dd-a994-4c57e0dd69bc "Microsoft Certified Trainer 2023-2024")
 [![Kusto Detective Agency - Case #5 Badge](https://images.credly.com/size/160x160/images/43b452c6-89f2-4649-bb84-19f3166a833e/image.png)](http://www.credly.com/badges/5e6245eb-585d-4bd5-9df5-32957adf0a7f "Kusto Detective Agency - Case #5 Badge")
 [![Kusto Detective Agency - Case #4 Badge](https://images.credly.com/size/160x160/images/e7522dc8-886b-4a5b-9436-535e1adaa5c5/image.png)](http://www.credly.com/badges/82eca7d0-8671-491e-8ff8-9410930bbcbf "Kusto Detective Agency - Case #4 Badge")
 [![Kusto Detective Agency - Case #3 Badge](https://images.credly.com/size/160x160/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png)](http://www.credly.com/badges/7811f986-5408-46cb-ac52-0de852a74b6a "Kusto Detective Agency - Case #3 Badge")
