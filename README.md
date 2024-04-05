@@ -1,4 +1,4 @@
----
+<!--
 context:
 - https://www.linkedin.com/in/martin-stuehmer/
 - https://github.com/samtrion
@@ -7,8 +7,7 @@ context:
 
 helpful-links:
 - https://github.com/ikatyang/emoji-cheat-sheet
----
-
+-->
 # Hi :wave:, I'm Martin
 ---
 
