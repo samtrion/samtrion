@@ -19,35 +19,11 @@ I'm currently an Enterprise Architect at [CGI](https://www.cgi.com/), a leading 
 
 In addition to my work at [CGI](https://www.cgi.com/), I'm actively involved in the technology community, contributing to various open source projects on GitHub.
 
-Can I help you with something? Feel free to contact me via [email](mailto:me@samtrion.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/martin-stuehmer/).
 
-<!--
-## My current blog posts 
+## 📫 Connect with Me  
 
-<table align="center">
-    <thead>
-        <tr>
-            <th>English blog postings</th>
-            <th>German blog postings</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://daily-devops.net/en/" title="Daily DevOps & .NET - English Feed">
-                    <img src="metrics.dailydevops.en.rss.svg" alt="Daily DevOps & .NET - English Feed" title="Daily DevOps & .NET - English Feed" />
-                </a>
-            </td>
-            <td>
-                <a href="https://daily-devops.net/de/" title="Daily DevOps & .NET - German Feed">
-                    <img src="metrics.dailydevops.de.rss.svg" alt="Daily DevOps & .NET - German Feed" title="Daily DevOps & .NET - German Feed" />
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-- Updating my personal website with examples of my work on <a href="https://samtrion.net">samtrion.net</a>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=samtrion&show_icons=true&count_private=true)
--->
+- [🌐 daily-devops.net](https://daily-devops.net/)  
+- [💼 LinkedIn](https://www.linkedin.com/in/martin-stuehmer/)
+- [🦋 Bluesky](https://bsky.app/profile/samtrion.net)
+- [📧 Email](mailto:me@samtrion.net)
+- [📧 Email](mailto:martin@daily-devops.net)
