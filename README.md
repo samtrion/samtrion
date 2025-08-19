@@ -26,4 +26,3 @@ In addition to my work at [CGI](https://www.cgi.com/), I'm actively involved in 
 - [💼 LinkedIn](https://www.linkedin.com/in/martin-stuehmer/)
 - [🦋 Bluesky](https://bsky.app/profile/samtrion.net)
 - [📧 Email](mailto:me@samtrion.net)
-- [📧 Email](mailto:martin@daily-devops.net)
