@@ -13,7 +13,7 @@ helpful-links:
 
 ---
 
-I'm a **CTO at [Integrated Worlds GmbH](https://www.integratedworlds.com/)** with nearly 20 years shipping .NET systems. I've built things that work, broken things that seemed clever, and learned the hard way which lessons actually stick.
+I'm a **CTO at [Integrated Worlds GmbH](https://www.integrated-worlds.com/)** with nearly 20 years shipping .NET systems. I've built things that work, broken things that seemed clever, and learned the hard way which lessons actually stick.
 
 I lead cloud architecture on Azure while staying hands-on: code reviews, production debugging, and the consequences of my own decisions keep me honest. I'm skeptical of buzzword-driven development and allergic to cargo-cult practices. If a trend lacks substance or a pattern collapses under real load, I'll say so.
 
